@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+*:focus {
+  outline: 1px solid #ddd6fe
+}
+
